@@ -188,7 +188,7 @@ This helps examine the contribution of:
 
 - Trend
 - Seasonal component
-- Remainder / irregular component
+- Remainder / irregular components
 
 ## 3.3 Variance Stationarity
 
